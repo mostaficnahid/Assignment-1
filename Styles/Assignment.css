@@ -1,7 +1,8 @@
 /* shared styles */
 *{
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 
@@ -1117,6 +1118,5 @@ text-align: center;
   display: inline;
 }
 *{
-  margin: 0;
-  padding: 0;
+  margin: 0px;
 }
